@@ -1,1 +1,1 @@
-Test Hook Title -> https://example.com/video.mp4
+Another Gameplay Hook -> https://example.com/video2.mp4
