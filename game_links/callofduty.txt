@@ -24,7 +24,7 @@ cod .1 -> https://github.com/Prembty12/GitHubuploader/releases/download/v1.0/cod
 cod .11 -> https://github.com/Prembty12/GitHubuploader/releases/download/v1.0/cod-.11.mp4
 
 cod .13 -> https://github.com/Prembty12/GitHubuploader/releases/download/v1.0/cod-.13.mp4
-cod .14 -> https://github.com/Prembty12/GitHubuploader/releases/download/v1.0/cod-.14.mp4
+
 cod .2 -> https://github.com/Prembty12/GitHubuploader/releases/download/v1.0/cod-.2.mp4
 cod .3 -> https://github.com/Prembty12/GitHubuploader/releases/download/v1.0/cod-.3.mp4
 cod .4 -> https://github.com/Prembty12/GitHubuploader/releases/download/v1.0/cod-.4.mp4
